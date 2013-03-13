@@ -1,6 +1,6 @@
 # sinatra-web-app
 
-Structure for a modular Sinatra Web App (Ruby 1.9.3 + Bundler).
+Structure for a modular Sinatra Web App (Ruby 1.9.3 + Bundler + Rake).
 
 ## Install dependencies
 
