@@ -1,3 +1,8 @@
+require 'rubygems'
+
+require 'bundler'
+Bundler.require(:default)
+
 class Base < Sinatra::Base
 
   set :static, true
