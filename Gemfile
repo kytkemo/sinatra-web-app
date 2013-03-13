@@ -6,6 +6,8 @@ gem 'haml'
 
 group :development do
 
+  gem 'rack-test'
+
 end
 
 group :production do
