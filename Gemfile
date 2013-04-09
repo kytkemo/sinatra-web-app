@@ -1,12 +1,12 @@
 source 'https://rubygems.org'
 
-gem 'require_all'
-gem 'sinatra', :require => 'sinatra/base'
-gem 'haml'
+gem 'require_all', '1.2.1'
+gem 'sinatra', '1.4.2', :require => 'sinatra/base'
+gem 'haml', '4.0.2'
 
 group :development do
 
-  gem 'rack-test'
+  gem 'rack-test', '0.6.2'
 
 end
 
