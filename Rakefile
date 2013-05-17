@@ -9,7 +9,7 @@ Rake::TestTask.new do |task|
 
 end
 
-Rake::PackageTask.new('sinatra-web-app', '1.0.3-SNAPSHOT') do |task|
+Rake::PackageTask.new('sinatra-web-app', '1.0.3') do |task|
 
   task.need_tar_gz = true
   task.package_files = FileList['app/*/*', '.ruby-gemset', '.ruby-version', 'Gemfile', 'config.ru']
