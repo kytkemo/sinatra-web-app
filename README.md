@@ -6,7 +6,15 @@ Structure for a modular Sinatra Web App (Ruby 2.0.0 + Bundler + Rake).
 
     bundle install --without production (or development)
 
-## Usage
+## Run tests
+
+    rake test
+
+## Package
+
+    rake package
+
+## Start Server
 
     rackup
 
