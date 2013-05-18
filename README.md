@@ -4,18 +4,16 @@ Structure for a modular Sinatra Web App (Ruby 2.0.0 + Bundler + Rake).
 
 ## Install dependencies
 
-    bundle install --without production (or development)
+Install dependencies with `bundle install --without production` (or development).
 
 ## Run tests
 
-    rake test
+Run tests with `rake test`.
 
 ## Package
 
-    rake package
+Create a package with `rake package`.
 
 ## Start Server
 
-    rackup
-
-The app will deploy to http://localhost:9292/.
+Start server with `rackup`. The app will deploy to http://localhost:9292/.
