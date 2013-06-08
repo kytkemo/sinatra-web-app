@@ -1,6 +1,6 @@
 require_relative 'base'
 
-require_rel 'controllers'
+require_rel 'controllers/'
 
 class App < Base
 
