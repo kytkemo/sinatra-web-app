@@ -8,7 +8,7 @@ Install dependencies with `bundle install --without production` (or development)
 
 ## Run tests
 
-Run tests with `rake test`.
+Run tests with `rspec`.
 
 ## Package
 
