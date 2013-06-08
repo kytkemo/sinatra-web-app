@@ -6,7 +6,7 @@ gem 'haml', '4.0.3'
 
 group :development do
 
-  gem 'rack-test', '0.6.2'
+  gem 'rack-test', '0.6.2', :require => false
 
 end
 
