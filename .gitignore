@@ -4,5 +4,6 @@
 
 # Project
 
+.bundle/
 coverage/
 pkg/
