@@ -1,5 +1,5 @@
 # Add app to load path
-$LOAD_PATH << './app/'
+$LOAD_PATH << 'app/'
 
 require 'simplecov'
 
