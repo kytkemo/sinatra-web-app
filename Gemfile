@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'require_all', '1.2.1'
+gem 'require_all', '1.3.1'
 gem 'sinatra', '1.4.3', :require => 'sinatra/base'
 gem 'haml', '4.0.3'
 
