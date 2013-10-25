@@ -15,7 +15,7 @@ describe 'A RSpec' do
 
   it 'shoud pass' do
 
-    true.should be_true
+    expect(true).to be(true)
 
   end
 
