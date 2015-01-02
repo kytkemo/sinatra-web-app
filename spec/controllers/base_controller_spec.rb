@@ -13,7 +13,7 @@ describe 'A RSpec' do
 
   end
 
-  it 'shoud pass' do
+  it 'should pass' do
 
     expect(true).to be(true)
 
