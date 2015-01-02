@@ -9,7 +9,7 @@ Install dependencies with `bundle install --without production` (or development 
 
 ## Run Tests
 
-Run tests with `rspec`.
+Run tests with `bundle exec rspec`.
 
 ## Package
 
