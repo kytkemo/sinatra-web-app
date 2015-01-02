@@ -1,4 +1,5 @@
-# sinatra-web-app
+sinatra-web-app
+===============
 
 Structure for a modular Sinatra Web App (Ruby 2.2.0 + Rake + Bundler + Sinatra 1.4.5).
 
