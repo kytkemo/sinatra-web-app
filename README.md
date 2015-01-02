@@ -17,4 +17,4 @@ Create a package with `rake package`.
 
 ## Start Server
 
-Start server with `rackup`. The app will deploy to http://localhost:9292.
+Start server with `bundle exec rackup`. The app will deploy to http://localhost:9292.
