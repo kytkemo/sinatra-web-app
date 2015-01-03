@@ -1,4 +1,7 @@
+require 'rake/clean'
 require 'rake/packagetask'
+
+CLEAN.include('coverage/', 'pkg/')
 
 Rake::PackageTask.new('sinatra-web-app', '1.1.4-SNAPSHOT') do |task|
 
