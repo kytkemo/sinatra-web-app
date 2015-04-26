@@ -9,7 +9,7 @@ group :development, :test do
   gem 'rubocop', '0.30.1'
   gem 'rspec', '3.2.0'
   gem 'rack-test', '0.6.3'
-  gem 'simplecov', '0.9.1'
+  gem 'simplecov', '0.10.0'
 
 end
 
