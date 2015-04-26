@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'require_all', '1.3.2'
-gem 'sinatra', '1.4.5', require: 'sinatra/base'
+gem 'sinatra', '1.4.6', require: 'sinatra/base'
 gem 'haml', '4.0.6'
 
 group :development, :test do
