@@ -13,7 +13,7 @@ Run tests with `bundle exec rspec`.
 
 ## Package
 
-Create a package with `rake package`.
+Create a package with `bundle exec rake package`.
 
 ## Start Server
 
