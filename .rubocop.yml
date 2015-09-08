@@ -18,6 +18,9 @@ Style/EmptyLinesAroundMethodBody:
 Style/EmptyLinesAroundModuleBody:
   EnforcedStyle: empty_lines
 
+Style/MultilineOperationIndentation:
+  Enabled: false
+
 Style/SpaceInsideBrackets:
   Enabled: false
 
@@ -42,6 +45,9 @@ Metrics/LineLength:
   Enabled: false
 
 Metrics/MethodLength:
+  Enabled: false
+
+Metrics/ModuleLength:
   Enabled: false
 
 Metrics/ParameterLists:
