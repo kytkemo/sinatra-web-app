@@ -8,7 +8,7 @@ gem 'haml', '4.0.7'
 group :development, :test do
 
   gem 'rubocop', '0.34.0'
-  gem 'rspec', '3.2.0'
+  gem 'rspec', '3.3.0'
   gem 'rack-test', '0.6.3'
   gem 'simplecov', '0.10.0'
 
