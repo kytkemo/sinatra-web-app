@@ -3,7 +3,7 @@ ruby '2.2.3'
 
 gem 'require_all', '1.3.2'
 gem 'sinatra', '1.4.6', require: 'sinatra/base'
-gem 'haml', '4.0.6'
+gem 'haml', '4.0.7'
 
 group :development, :test do
 
