@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.2.3'
+ruby '2.3.0'
 
 gem 'require_all', '1.3.3'
 gem 'sinatra', '1.4.6', require: 'sinatra/base'
