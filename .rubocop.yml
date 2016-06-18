@@ -7,7 +7,7 @@ Style/Documentation:
   Enabled: false
 
 Style/EmptyLinesAroundBlockBody:
-  EnforcedStyle: empty_lines
+  Enabled: false
 
 Style/EmptyLinesAroundClassBody:
   EnforcedStyle: empty_lines
