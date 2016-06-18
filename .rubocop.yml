@@ -18,9 +18,6 @@ Style/EmptyLinesAroundMethodBody:
 Style/EmptyLinesAroundModuleBody:
   EnforcedStyle: empty_lines
 
-Style/MultilineOperationIndentation:
-  Enabled: false
-
 Style/SpaceInsideBrackets:
   Enabled: false
 
