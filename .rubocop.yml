@@ -18,6 +18,9 @@ Style/EmptyLinesAroundMethodBody:
 Style/EmptyLinesAroundModuleBody:
   EnforcedStyle: empty_lines
 
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
 Style/SpaceInsideBrackets:
   Enabled: false
 
