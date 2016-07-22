@@ -10,7 +10,7 @@ group :development, :test do
   gem 'rubocop', '0.41.2'
   gem 'rspec', '3.5.0'
   gem 'rack-test', '0.6.3'
-  gem 'simplecov', '0.11.2'
+  gem 'simplecov', '0.12.0'
 end
 
 group :production do
